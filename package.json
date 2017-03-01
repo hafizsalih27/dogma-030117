@@ -1,0 +1,23 @@
+{
+  "name": "basichtml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hafizsalih27/dogma-030117.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hafizsalih27/dogma-030117/issues"
+  },
+  "homepage": "https://github.com/hafizsalih27/dogma-030117#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
